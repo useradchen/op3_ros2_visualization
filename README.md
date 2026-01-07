@@ -91,7 +91,6 @@ The following figure shows the OP3 humanoid robot successfully visualized in RVi
 ## Future Work
 
 - Integrate OP3 into **Gazebo** for simulation.  
-- Test various robot motions and behaviors in a simulated environment before deploying them on the real robot.
 ---
 
 ## References
