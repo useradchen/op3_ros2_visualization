@@ -67,27 +67,24 @@ After executing `python3 op3_ik.py`, the OP3 robot in RViz will move according t
 
 The following figure shows the OP3 humanoid robot successfully visualized in RViz using ROS 2:
 
-![OP3 RViz Visualization](images/op3_rviz.png)
-
+![RViz Visualization](picture/rviz.png)
 *Figure 1. OP3 robot model visualization in RViz.*
 
 ---
 
 ## 🎥 Demonstration Video
 
-A demonstration of the system execution and visualization result is available at the following link:
-
-* [https://www.youtube.com/watch?v=HrSheeFqyoc](https://www.youtube.com/watch?v=HrSheeFqyoc)
+[![Video Thumbnail](https://img.youtube.com/vi/HrSheeFqyoc/maxresdefault.jpg)](https://www.youtube.com/watch?v=HrSheeFqyoc)
 
 ---
 
 ## 📚 Notes
 
 * Ensure all mesh file paths in the URDF are correctly configured before building.
-* This repository is intended for academic, educational, and demonstration purposes.
 
 ---
 
-## 📩 Contact
+## References
 
-For questions, discussions, or academic collaboration, please feel free to open an issue in this repository.
+- [ROBOTIS OP3 Official Manual](https://emanual.robotis.com/docs/en/platform/op3/introduction/)
+- [ROBOTIS-OP3-Common GitHub Repository](https://github.com/Jay-Song/ROBOTIS-OP3-Common)
