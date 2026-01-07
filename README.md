@@ -63,6 +63,10 @@ Once launched, RViz will automatically open and display the OP3 robot model.
 After executing `python3 op3_ik.py`, the OP3 robot in RViz will move according to the inverse kinematics computation.
 
 ---
+## 🦿Inverse Kinematics
+![IK](picture/IK_leg1.png)
+![IK](picture/IK_leg2.png)
+![IK](picture/IK.png)
 
 ## 🖼️ RViz Visualization
 
