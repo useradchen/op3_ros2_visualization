@@ -36,6 +36,7 @@ Download the `op3_urdf_ws` workspace and extract it to a local directory.
 
 ### Step 2: Configure Mesh File Paths
 
+
 Open the `robotis_op3.urdf` file and modify the paths in each `<mesh filename="">` tag (e.g., `file:///home/...`) to match the actual mesh file locations on your local system.
 
 
